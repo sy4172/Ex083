@@ -48,25 +48,25 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             {"1,213 km^2","794 km^2","790 km^2","776 km^2","740 km^2"},
             {"Omdurman","Khartoum","Khartoum North","Nyala","Port Sudan"}, // AFRICA (Sudan)
             {"1,849,659","1,410,858","1,012,211","492,984","394,561"},
-            {"614.9 km^2","22,142 km^2","Not mentioned","Not mentioned","Not mentioned"},
+            {"614.9 km^2","22,142 km^2","Wasn't found","Wasn't found","Wasn't found"},
             {"Casablanca","Fez","Tangier","Marrakesh","Rabat"}, // Morocco
             {"3,359,818","1,112,072","947,952","928,850","577,827"},
-            {"220 km^2","320 km^2","Not mentioned","Not mentioned","117 km^2"},
+            {"220 km^2","320 km^2","Wasn't found","Wasn't found","117 km^2"},
             {"Algiers","Oran","Constantine","Batna","Djelfa"}, // Algeria
             {"2,481,788","609,940","448,374","290,645","289,226"},
-            {"1,190 km^2","2,121 km^2","2,288 km^2","85 km^2","Not mentioned"},
+            {"1,190 km^2","2,121 km^2","2,288 km^2","85 km^2","Wasn't found"},
             {"Cairo","Asyut","Alexandria","Benha","Belbeis"}, // Egypt
             {"9,908,788","389,307","5,200,000","165,906","407,300"},
-            {"3,085.12 km^2","Not mentioned","2,679 km^2","Not mentioned","Not mentioned"},
+            {"3,085.12 km^2","Wasn't found","2,679 km^2","Wasn't found","Wasn't found"},
             {"N'Djamena","Moundou","Sarh","Abéché","Kélo"}, // Chad
             {"951,418","137,929","103,269","76,492","45,224"},
-            {"166 km^2","Not mentioned","Not mentioned","Not mentioned","Not mentioned"},
+            {"166 km^2","Wasn't found","Wasn't found","Wasn't found","Wasn't found"},
             {"Abong-Mbang","Bali","Akonolinga","Ambam","Bafang"}, // Cameroon
             {"18,700","32,000","21,299","1,596","33,324"},
-            {"Not mentioned","Not mentioned","Not mentioned","Not mentioned","Not mentioned"},
+            {"Wasn't found","Wasn't found","Wasn't found","Wasn't found","Wasn't found"},
             {"Addis Ababa","Mekelle","Gondar","Adama","Hawassa"}, // Ethiopia
             {"13,352,000","441,991","740,859","338,940","318,618"},
-            {"527 km^2","Not mentioned","192.27 km^2","Not mentioned","50 km^2"},
+            {"527 km^2","Wasn't found","192.27 km^2","Wasn't found","50 km^2"},
             {"Jerusalem","Beer Sheva","Tel Aviv-Yafo","Haifa","Eilat"}, // ASIA (Israel)
             {"936,425","209,687","402,600","285,316","52,299"},
             {"125.2 km^2","117.5 km^2","51.8 km^2","63.7 km^2","84.8 km^2"},
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             {"1,200 km^2","351 km^2","551 km^2","162 km^2","240 km^2"},
             {"Basra","Baghdad","Duhok","Haditha","Ar Rutba"}, // Iraq
             {"1,326,564","8,126,755","~340,900","46,500","28,400"},
-            {"50-75 km^2","673 km^2","Not mentioned","Not mentioned","Not mentioned"},
+            {"50-75 km^2","673 km^2","Wasn't found","Wasn't found","Wasn't found"},
             {"Shanghai","Beijing","Shenzhen","Guangzhou","Wuhan"}, // China
             {"24,183,300","18,766,000","12,528,300","11,849,900","8,684,800"},
             {"4,000 km^2","4,144 km^2","1,748 km^2","3,843.43 km^2","1,528 km^2"},
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             {"714.69 km^2","127 km^2","335.27 km^2","158.83 km^2","140.66 km^2"},
             {"Aberdeen","Armagh","Bangor","Bath","Belfast"}, // United Kingdom
             {"189,120","14,777","18,808","88,859","333,871"},
-            {"185.7 km^2","Not mentioned","Not mentioned","0.029 km^2","132.5 km^2"}};
+            {"185.7 km^2","Wasn't found","Wasn't found","0.029 km^2","132.5 km^2"}};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

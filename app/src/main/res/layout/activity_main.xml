@@ -54,7 +54,7 @@
                 <Space
                     android:layout_width="match_parent"
                     android:layout_height="0px"
-                    android:layout_weight="2" />
+                    android:layout_weight="3" />
 
                 <Spinner
                     android:id="@+id/countriesSpin"
@@ -65,7 +65,7 @@
                 <Space
                     android:layout_width="match_parent"
                     android:layout_height="0px"
-                    android:layout_weight="2" />
+                    android:layout_weight="3" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -73,13 +73,15 @@
                     android:layout_weight="1"
                     android:text="@string/citizens"
                     android:textAlignment="center"
-                    android:textAllCaps="true" />
+                    android:textAllCaps="true"
+                    android:textSize="14sp" />
 
                 <TextView
                     android:id="@+id/citizens"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:gravity="center"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
@@ -94,13 +96,15 @@
                     android:layout_weight="1"
                     android:text="@string/area"
                     android:textAlignment="center"
-                    android:textAllCaps="true" />
+                    android:textAllCaps="true"
+                    android:textSize="14sp" />
 
                 <TextView
                     android:id="@+id/area"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
+                    android:gravity="center"
                     android:textAlignment="center"
                     android:textStyle="bold" />
 
